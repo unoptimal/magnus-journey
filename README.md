@@ -13,3 +13,5 @@ Scrollytelling (through Svelte + D3) is super cool, and I'm glad I was able to g
 Ideally, I wanted each section to have more data points and somehow work-in the context of where each section is relative to his overall rating graph (perhaps a mini-map or something to that effect).
 
 I also wanted to explore how his career arc compared to his peers and the average chess player. Ambitiously I wanted to add a feature that would let the user input their own FIDE ID and see how it compares as well. (This exists on some chess websites already, but I still think it would be a cool thing to add.)
+
+Oh! It's also not mobile-friendly or responsive at all. 
